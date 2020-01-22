@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name iss_lib)(type KiCad)(uri "C:/Users/PARA/Desktop/kicad/final one/iss/iss_lib.pretty$")(options "")(descr ""))
+  (lib (name Socket_Arduino_Uno)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name Mes_modules)(type KiCad)(uri ${KIPRJMOD}/Mes_modules)(options "")(descr ""))
+)
